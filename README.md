@@ -7,14 +7,14 @@
 - Scaffolded across 4 tiers from foundation to professional practice
 - Uses coherent DataMart e-commerce scenario throughout
 
-**`data_cleaning_lesson.ipynb`** - 20-minute applied lesson on pandas data cleaning
+**`applied_pandas_lesson.ipynb`** - 20-minute applied lesson on pandas data cleaning
 - Hands-on practice with missing value strategies
 - Includes sample data (`messy_sales_data.csv`)
 - Part of Core Skills tier in the pathway
 
 ## Usage
 1. Review the full pathway in `Skill_pathway.md`
-2. Try the lesson by opening `data_cleaning_lesson.ipynb` in Colab/Jupyter
+2. Try the lesson by opening `applied_pandas_lesson.ipynb` in Colab/Jupyter
 3. All required files are included in this repository
 
 **Created by:** Alicia-Marie Lillich  
