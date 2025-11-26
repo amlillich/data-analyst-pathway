@@ -2,7 +2,7 @@
 
 ## Contents
 
-**`data_analyst_pathway.md`** - Complete curriculum for entry-level data analysts
+**`Skill_pathway.md`** - Complete curriculum for entry-level data analysts
 - Python-focused with Tableau and AI tools
 - Scaffolded across 4 tiers from foundation to professional practice
 - Uses coherent DataMart e-commerce scenario throughout
@@ -13,7 +13,7 @@
 - Part of Core Skills tier in the pathway
 
 ## Usage
-1. Review the full pathway in `data_analyst_pathway.md`
+1. Review the full pathway in `Skill_pathway.md`
 2. Try the lesson by opening `data_cleaning_lesson.ipynb` in Colab/Jupyter
 3. All required files are included in this repository
 
