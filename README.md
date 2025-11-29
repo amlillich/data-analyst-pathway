@@ -35,4 +35,4 @@ This asynchronous lesson was engineered to meet the strict 20-minute constraint 
 3. All required files are included in this repository
 
 **Created by:** Alicia-Marie Lillich
-**Purpose:** Interview assignment for Curriculum and Content Strategy Lead role at 2U
+**Purpose:** Interview assignment for Curriculum and Content Strategy Lead, Data and AI Products role at 2U
