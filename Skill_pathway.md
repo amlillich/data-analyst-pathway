@@ -2,9 +2,9 @@
 
 ## Program Overview
 
-This pathway is designed for career-switchers with no prior technical background who want to become job-ready data analysts. The curriculum progresses across four tiers: from foundational concepts to professional analytical practice. It uses **Python** for core analysis, **Tableau Public** for business dashboards, and **AI tools** for workflow acceleration.
+This pathway is designed for career-switchers with no prior technical background who want to become job-ready data analysts. The curriculum progresses across four tiers: from foundational concepts to professional analytical practice. It uses Python for core analysis, Tableau Public for business dashboards, and AI tools for workflow acceleration.
 
-Learners work within a consistent scenario: they are junior data analysts at **DataMart**, a mid-sized e-commerce company, and work with evolving customer-purchase datasets throughout the program. This approach builds both technical proficiency and authentic domain expertise.
+Learners work within a consistent scenario: they are junior data analysts at DataMart, a mid-sized e-commerce company, and work with evolving customer-purchase datasets throughout the program. This approach builds both technical proficiency and authentic domain expertise.
 
 ### Design Philosophy
 
