@@ -16,12 +16,12 @@
 
 ## Instructional Design Note: Applied pandas Lesson
 
-This asynchronous lesson was engineered to meet the strict 20-minute constraint while delivering a high-impact, three-part learning objective on the core technology, pandas.
+This asynchronous lesson was engineered to meet the 20-minute constraint while delivering a high-impact, three-part learning objective on the core technology, pandas.
 
 | Design Feature | Strategic Justification |
 | :--- | :--- |
-| **20-Minute Focus** | Designed for optimal learner engagement and success within the timebox. The session focuses purely on *Missing Value Handling* to ensure one clear, measurable win. |
-| **Tool Showcase** | The lesson showcases the **pandas library** as the primary tool. All cleaning operations are framed around pandas methods (`dropna`, `fillna`, `.mode()`), fulfilling the requirement to focus on a technology. |
+| **20-Minute Focus** | Designed for learner engagement and success within the timeframe. The session focuses purely on *Missing Value Handling* to ensure one clear, measurable win. |
+| **Tool Showcase** | The lesson showcases the **pandas library** as the primary tool. All cleaning operations are framed around pandas methods (`dropna`, `fillna`, `.mode()`). |
 | **Pedagogical Structure** | Employs a **Guided Practice → Independent Challenge → Logic Check** pattern. This builds confidence while forcing the learner to independently apply the logic they just learned. |
 | **Best Practice Coding** | All data modifications use **Explicit Assignment** (`df = ...` or `df['col'] = ...`), avoiding the deprecated `inplace=True` parameter. This preemptively addresses potential Chained Assignment warnings, teaching reliable, modern pandas code. |
 | **Scope Management** | **Deduplication** and **Outlier Detection** are deliberately omitted. Deferring these steps to the *next* module respects the 20-minute limit and demonstrates strong curriculum scaffolding. |
