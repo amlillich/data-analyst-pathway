@@ -14,7 +14,7 @@ Our strategy prioritizes job relevance and resilient technical skills to minimiz
 | :--- | :--- |
 | Controlled Scaffolding | Knowledge progresses through four distinct tiers to minimize cognitive friction. Learners master the concept before confronting the tool, ensuring deep understanding rather than rote memorization. |
 | Integrated Case Study | The persistent DataMart scenario provides immediate contextual relevance. This builds portfolio-ready domain expertise alongside technical skills, ensuring every action ties back to an authentic business problem. |
-| Modern Tool Prioritization | We prioritize Python (pandas) for scale, Tableau Public for stakeholder communication, and Git/GitHub for reproducible science. This stack is a direct reflection of common mid-market job requirements, ensuring our graduates are instantly hirable. |
+| Modern Tool Prioritization | We prioritize Python (pandas) for scale, Tableau Public for stakeholder communication, and Git/GitHub for reproducible science. This stack is a direct reflection of common mid-market job requirements, ensuring learners develop immediately transferable, job-ready skills. |
 | Bridging the Gaps | By integrating SQLite directly within the Python notebook workflow, we force learners to translate between pandas and SQL operations. This accelerates their mastery of relational logic and dual-tool proficiency, which is critical for modern data environments. |
 | Future-Proofing | We include dedicated modules on AI-Assisted Analysis and Version Control. This ensures analysts understand how to responsibly leverage new tools and collaborate effectively as part of a distributed team. |
 
